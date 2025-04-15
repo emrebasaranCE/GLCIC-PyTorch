@@ -2,3 +2,5 @@ __pycache__/
 .python-version
 .vscode/
 .DS_Store
+model_cn
+config.json
